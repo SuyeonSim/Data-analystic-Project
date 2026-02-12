@@ -1,1 +1,7 @@
-# Data-analystic-Project
+# 데이터분석 프로젝트
+
+## 🔒 Data Privacy Note
+
+본 레포지토리에 포함된 dummy_order_data_public.csv는 개인정보 및 비즈니스 데이터 보호를 위해 Faker 라이브러리를 사용하여 100% 가상으로 생성되었습니다.
+
+실제 상품명은 가상의 카테고리명으로 대체되었으며, 고객 식별 정보(이름, 연락처, ID)는 모두 익명화 처리되었습니다.
